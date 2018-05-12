@@ -1,0 +1,28 @@
+_repo: A-Tale-of-the-Tow-Path_46172
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46172-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Greene, Homer
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '3540'
+    url: http://www.gutenberg.org/2009/agents/3540
+description: The Riverpark rebellion -- A tale of the tow-path.
+gutenberg_issued: '2014-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway teenagers -- Juvenile fiction'
+- !lcsh 'Towpaths -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Horses -- Juvenile fiction'
+title: A Tale of the Tow-Path
+url: http://www.gutenberg.org/ebooks/46172
